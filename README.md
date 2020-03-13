@@ -1,1 +1,1 @@
-A key Value store using RUST
+A key value store using RUST
